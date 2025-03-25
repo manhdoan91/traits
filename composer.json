@@ -7,8 +7,8 @@
 
     "authors": [
         {
-            "name": "Varga Zsolt (hisorange)",
-            "email": "hisoranger@gmail.com"
+            "name": "Manh Doan (manhdoan91)",
+            "email": "manhdoan91@ecomobi.com"
         }
     ],
 
@@ -18,7 +18,7 @@
 
     "autoload": {
         "psr-4": {
-            "hisorange\\Traits\\": "src/"
+            "manhdoan91\\Traits\\": "src/"
         }
     },
 

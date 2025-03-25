@@ -1,4 +1,4 @@
-### HiSoRange - PHP Traits v1.0.0
+### manhdoan91 - PHP Traits v1.0.0
 ***
 Collection of some useful traits what I use across my packages but can be useful to any1 (who knows right?).
 
