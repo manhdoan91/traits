@@ -1,5 +1,5 @@
 <?php
-namespace hisorange\Traits;
+namespace manhdoan91\Traits;
 
 trait ObjectConfig {
 
